@@ -136,7 +136,9 @@ a {
            font-size: 22px;
        }
 }
-
+.d-block {
+    margin-top: 50px;
+}
 .carousel-caption{
     position: absolute;
     font-size: xx-large;
